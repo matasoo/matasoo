@@ -4,7 +4,7 @@ Hi 👋 My name is Voinea David Adrian
 I like to code!
 
 # 💫 About Me:
-🌍  I'm based in Blaj, Romania<br>✉️  You can contact me at voineadavid@matasoo.com<br>🧠 javascript, flutter
+✉️  You can contact me at voineadavid@matasoo.com<br>🧠 javascript, flutter
 
 
 ## 🌐 Socials:
